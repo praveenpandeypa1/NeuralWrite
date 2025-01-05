@@ -2,7 +2,7 @@ Blog App
 A simple and user-friendly blog application built with Node.js, Express, MongoDB Atlas, and JWT Authentication. This project demonstrates how to create a blog platform where users can create, read, and manage blog posts, with secure authentication using JSON Web Tokens (JWT).
 
 Features 
-User Authentication: Secure login and registration using JWT.
+User Authentication: Secure login and registration using JWT. 
 Blog Post Management: Create, edit, and view blog posts.
 MongoDB Atlas: Cloud database for storing user and post data.
 EJS Templating: Dynamic HTML rendering for the front-end using EJS.
