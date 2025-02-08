@@ -5,7 +5,7 @@ A simple and user-friendly blog application built with Node.js, Express, MongoDB
 - User Authentication: Secure login and registration using JWT.     
 - Blog Post Management: Create, edit, and view blog posts.
 - MongoDB Atlas: Cloud database for storing user and post data.
-EJS Templating: Dynamic HTML rendering for the front-end using EJS.
+EJS Templating: Dynamic HTML rendering for the front-end using EJS.   
 Environment Configuration: Secure configuration using .env file.
 Technologies Used
 Node.js: JavaScript runtime for building the server-side application.
