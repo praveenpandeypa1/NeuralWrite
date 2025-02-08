@@ -9,7 +9,7 @@ EJS Templating: Dynamic HTML rendering for the front-end using EJS.
 Environment Configuration: Secure configuration using .env file.
 Technologies Used
 Node.js: JavaScript runtime for building the server-side application.
-Express.js: Web framework for building RESTful APIs and server-side logic.
+Express.js: Web framework for building RESTful APIs and server-side logic.    
 MongoDB Atlas: Cloud-based NoSQL database to store user data and blog posts.
 JWT (JSON Web Tokens): Secure token-based authentication for user sessions.
 EJS (Embedded JavaScript): Templating engine for rendering dynamic HTML content.
