@@ -1,5 +1,5 @@
 # Blog App with AI Content Suggestions
-This is a full-stack blog application with an AI content suggestion feature integrated into the frontend using EJS templates. The app allows users to create, edit, and view blog posts, with automatic content suggestions provided by AI to assist with writing.
+This is a full-stack blog application with an AI content suggestion feature integrated into the frontend using EJS templates. The app allows users to create, edit, and view blog posts, with automatic content suggestions provided by AI to assist with writing.   
 
 ## Features
 - User Authentication: Secure login and registration for users.
