@@ -5,7 +5,7 @@ const cookieParser = require("cookie-parser"); // Added cookie-parser for JWT
 const morgan = require("morgan"); // Optional: for logging requests
 const helmet = require("helmet"); // Optional: for security headers
 //const port=3000
-const app = express();   
+const app = express();     
 
 // Set up EJS view engine
 app.set("view engine", "ejs");
