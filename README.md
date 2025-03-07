@@ -6,7 +6,7 @@ This is a full-stack blog application with an AI content suggestion feature inte
 - Blog Post Creation: Users can create and edit blog posts with a rich text editor.     
 - AI Content Suggestions: The app uses AI to suggest content or phrases based on the current writing to improve or enhance blog posts.
 - EJS Templates: The frontend uses EJS for dynamic rendering and templating.
-- Post Management: Users can view, edit, and delete their own blog posts.
+- Post Management: Users can view, edit, and delete their own blog posts.  
 - Responsive Design: The app is optimized for both mobile and desktop views
 
 ## Technologies Used
